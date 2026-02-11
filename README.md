@@ -1,5 +1,5 @@
 # About Me:
-I’m currently a free lancer<br> I’m looking for job related to cybersecurity fields<br> I’m looking for help with mentors<br> I’m currently learning cybersecurity and fullstack development<br> Ask me about ethical hacking, tech stuffs<br> Fun fact - i am unknown everywhere
+I’m currently a free lancer<br> I’m looking for job related to cybersecurity fields<br> I’m looking for help with mentors<br> I’m currently learning cybersecurity and fullstack development<br> Ask me about ethical hacking, tech stuffs<br> Fun fact - i am unknown everywhere.
 
 
 ## Socials:
